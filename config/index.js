@@ -4,13 +4,13 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx16af84ecc1397720",
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "53ddfba9b23e873c864d1e034936d2ea",
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "iAWvGMyKdiRa586cGrrmklsjAZ3KByj1yVEXkxh7p-8",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: [""],
+    USERS: ["o2tV-5x86BwOD8K6dvgSXlg0Yb74"],
      
     /**
      * 信息配置
@@ -19,9 +19,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "河北",
     // 所在城市
-    CITY: "惠州",
+    CITY: "衡水",
 
     /** 生日相关 */
 
@@ -42,7 +42,7 @@ export const config = {
     /** 好文节选 */
 
     // 好文节选的内容类型
-    // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
+    // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 "网络"
     LITERARY_PREFERENCE: ""
 
 
